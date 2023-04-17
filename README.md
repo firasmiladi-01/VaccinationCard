@@ -19,6 +19,22 @@ This is a PHP project that serves as a vaccination card website, allowing users 
 
 - Officers can verify the vaccination status of a user.
 - Officers can determine whether a user is allowed to travel to a certain country based on their vaccination history.
+## Overview
+### Home page 
+![image](https://user-images.githubusercontent.com/72221591/232539790-94f0e2dc-863c-4c05-b7d3-2d78e4074f2c.png)
+### Visitor Login
+![image](https://user-images.githubusercontent.com/72221591/232539869-c9b686d9-1f57-4847-bc7e-a8343d44abea.png)
+### Vistor Signup
+![image](https://user-images.githubusercontent.com/72221591/232539950-0a872fce-61eb-423c-b8bd-e661f298b68d.png)
+### Visitor Homepage 
+![image](https://user-images.githubusercontent.com/72221591/232540037-d734338c-cb4b-4030-a30d-68174dd69ebf.png)
+![image](https://user-images.githubusercontent.com/72221591/232540064-5846f31b-119f-4096-ba7c-f614abfb80b4.png)
+### doctor/officer login 
+![image](https://user-images.githubusercontent.com/72221591/232540229-1637f294-67be-4abc-a075-c0156f233276.png)
+### doctor home page
+![image](https://user-images.githubusercontent.com/72221591/232540342-2d23cca6-8483-422a-ab73-3d86faf112d7.png)
+### officer home page 
+![image](https://user-images.githubusercontent.com/72221591/232540398-9c03798a-4744-416b-9b8b-442f9063ca1f.png)
 
 ## Installation
 
