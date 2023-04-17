@@ -105,7 +105,7 @@
                 < Go Back</button></a>
         <div class="container">
             <div class="left">
-                <img src="https://www.paho.org/sites/default/files/styles/max_1500x1500/public/vaccine-1500x742.jpg?itok=gudUazNY" alt="vaccin" height="400px" width="600px">
+                <img src="https://pngimg.com/d/doctor_PNG16015.png" alt="vaccin" height="400px" width="600px">
             </div>
             <div class="right">
                 <h3>Add vaccination to a VC owner</h3>
